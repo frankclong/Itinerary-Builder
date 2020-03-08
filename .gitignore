@@ -1,0 +1,8 @@
+*.zip
+.DS_Store
+*.csv
+/.metadata/
+*.sublime-build
+*.json
+*.html
+config.py
